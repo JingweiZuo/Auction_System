@@ -20,17 +20,19 @@ The default admin passwork: *admin*, the symplify the execution, we hard-coded a
 
 The general Architecture of the system is presented in the following figure. It follows a client/server architecture. Clients and servers are distributed over the network
 
-<img src="./figures/system_architecture.png" alt="image-20210518120542525 AM" style="zoom:60%;" />
+
+<img src="./figures/system_architecture.png" alt="system_structure" style="zoom:60%;" />
+ 30803ba7eaa8231faecc6eb68185fecbf681423b
 
 - A **Directory Manager** manages the users and the objects proposed for auctions.
 - An **Administration Client** accesses **the Directory Manager services** to 
   - add and remove users;
   - manage the rights of the users;
   - to add and remove objects to be proposed for auction by a user
-- 􏰀 An **Auction Manager** manages 
+- An **Auction Manager** manages 
   - the auctions for objects proposed to be sold
   - the bids on objects users want to buy.
-- 􏰀 An (several) **Auction Client**(s) accesses **the Auction Manager services**. 
+- An (several) **Auction Client**(s) accesses **the Auction Manager services**. 
 
 
 
@@ -56,17 +58,21 @@ The general Architecture of the system is presented in the following figure. It 
 
   <img src="./figures/DAO.png" alt="DAO" style="zoom:50%;"  align="left"/>
 
+
 - Proxy Pattern
 
   <img src="./figures/proxy.png" alt="proxy" style="zoom:50%;"  align="left"/>
+
 
 - Transfer Object Pattern 
 
   <img src="./figures/TransferObjectPattern.png" alt="TransferObjectPattern" style="zoom:50%;" align="left"/>
 
-- Asynchronous Pattern
 
-  <img src="./figures/Asynchrone_mode.png" alt="Asynchrone_mode" style="zoom:50%;" align="left"/>
+- Asynchronous Pattern
+ 30803ba7eaa8231faecc6eb68185fecbf681423b
+
+  <img src="./figures/Asynchrone_mode.png" alt="Asynchrone_mode" style="zoom:30%;" align="left"/>
 
   
 
