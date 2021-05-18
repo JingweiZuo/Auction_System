@@ -1,0 +1,553 @@
+----------------------------------------------------------------
+Sun Oct 08 15:53:25 CEST 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Sun Oct 29 15:59:51 CET 2017 : Security manager installed using the Basic server security policy.
+Sun Oct 29 15:59:51 CET 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+Sun Oct 29 15:59:51 CET 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Oct 29 15:59:58 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015f-68a5-687d-ffff9d000622 
+on database directory /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@45ee12a7 
+Loaded from file:/Users/Jingwei/appServ/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/Users/Jingwei/appServ/EJBLabs/EJB-Projet
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=/Users/Jingwei/appServ/EJBLabs/EJB-Projet
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Oct 30 18:01:06 CET 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Mon Oct 30 18:01:06 CET 2017:
+Shutting down instance a816c00e-015f-68a5-687d-ffff9d000622 on database directory /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@45ee12a7 
+----------------------------------------------------------------
+Mon Oct 30 18:01:06 CET 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) shutdown
+Mon Oct 30 18:03:22 CET 2017 : Security manager installed using the Basic server security policy.
+Mon Oct 30 18:03:22 CET 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+Mon Oct 30 18:03:22 CET 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Oct 30 18:03:28 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015f-6e3c-d99a-ffff9d000622 
+on database directory /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@45ee12a7 
+Loaded from file:/Users/Jingwei/appServ/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/Users/Jingwei/appServ/EJBLabs/EJB-Projet
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=/Users/Jingwei/appServ/EJBLabs/EJB-Projet
+Database Class Loader started - derby.database.classpath=''
+Fri Nov 03 23:12:59 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:12:59 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:16:57 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:16:57 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:18:20 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:18:20 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:23:03 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:23:03 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:24:03 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:24:03 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:25:13 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:25:13 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:26:18 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:26:18 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:27:39 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:27:39 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:28:45 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:28:45 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:45:57 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:45:57 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+
+------------  Début de pile d'erreurs d'arrêt -----------
+
+ERROR XSLA8: Impossible d'annuler (rollback) la transaction 24281 ; tentative de compensation de l'opération null par null
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.undo(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.popSavePoints(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.internalRollbackToSavepoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericStatementContext.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeLargeUpdate(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseEXCSQLIMM(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XSLAQ: Impossible de créer un fichier journal dans le répertoire /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples/log.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogDirectory(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileName(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileAtPosition(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.Scan.<init>(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.openBackwardsScan(Unknown Source)
+	... 17 more
+============= begin nested exception, level (1) ===========
+ERROR XSLAQ: Impossible de créer un fichier journal dans le répertoire /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples/log.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogDirectory(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileName(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileAtPosition(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.Scan.<init>(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.openBackwardsScan(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.undo(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.popSavePoints(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.internalRollbackToSavepoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericStatementContext.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeLargeUpdate(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseEXCSQLIMM(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (1) ===========
+
+
+------------  Fin de pile d'erreurs d'arrêt -----------
+
+New exception raised during cleanup Impossible d'annuler (rollback) la transaction 24281 ; tentative de compensation de l'opération null par null
+ERROR XSLA8: Impossible d'annuler (rollback) la transaction 24281 ; tentative de compensation de l'opération null par null
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.undo(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.popSavePoints(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.internalRollbackToSavepoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericStatementContext.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeLargeUpdate(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseEXCSQLIMM(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XSLAQ: Impossible de créer un fichier journal dans le répertoire /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples/log.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogDirectory(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileName(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileAtPosition(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.Scan.<init>(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.openBackwardsScan(Unknown Source)
+	... 17 more
+============= begin nested exception, level (1) ===========
+ERROR XSLAQ: Impossible de créer un fichier journal dans le répertoire /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples/log.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogDirectory(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileName(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.getLogFileAtPosition(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.Scan.<init>(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.openBackwardsScan(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.undo(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.popSavePoints(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.rollbackToSavePoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.internalRollbackToSavepoint(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericStatementContext.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeLargeUpdate(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseEXCSQLIMM(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (1) ===========
+----------------------------------------------------------------
+Fri Nov 03 23:46:48 CET 2017:
+Fermeture de l'instance a816c00e-015f-6e3c-d99a-ffff9d000622 sur le répertoire de base de données /Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples avec le chargeur de classe sun.misc.Launcher$AppClassLoader@45ee12a7 
+(Skipping thread dump because of insufficient permissions:
+java.security.AccessControlException: access denied ("java.lang.RuntimePermission" "getStackTrace"))
+
+
+Cleanup action completed
+Fri Nov 03 23:50:50 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:50:50 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:51:04 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:51:04 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:51:42 CET 2017 Thread[DRDAConnThread_4,5,main] Cleanup action starting
+ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Cleanup action completed
+Fri Nov 03 23:51:42 CET 2017 Thread[DRDAConnThread_4,5,main] Cleanup action starting
+java.sql.SQLException: Failed to create database 'sun-appserv-samples', see the next exception for details.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.newEmbedSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.seeNextException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: java.sql.SQLException: Failed to create database 'sun-appserv-samples', see the next exception for details.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 17 more
+Caused by: java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	... 14 more
+Caused by: ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	... 14 more
+============= begin nested exception, level (1) ===========
+java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 19 more
+Caused by: ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	... 14 more
+============= end nested exception, level (1) ===========
+============= begin nested exception, level (2) ===========
+java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	... 14 more
+============= end nested exception, level (2) ===========
+============= begin nested exception, level (3) ===========
+ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (3) ===========
+Cleanup action completed
+Fri Nov 03 23:51:42 CET 2017 Thread[DRDAConnThread_4,5,main] (DATABASE = sun-appserv-samples), (DRDAID = {3125}), Failed to create database 'sun-appserv-samples', see the next exception for details.
+Fri Nov 03 23:51:42 CET 2017 Thread[DRDAConnThread_4,5,main] (DATABASE = sun-appserv-samples), (DRDAID = {3125}), The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+Fri Nov 03 23:51:43 CET 2017 Thread[DRDAConnThread_7,5,main] Cleanup action starting
+ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Cleanup action completed
+Fri Nov 03 23:51:43 CET 2017 Thread[DRDAConnThread_7,5,main] Cleanup action starting
+java.sql.SQLException: Failed to create database 'sun-appserv-samples', see the next exception for details.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.newEmbedSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.seeNextException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: java.sql.SQLException: Failed to create database 'sun-appserv-samples', see the next exception for details.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 17 more
+Caused by: java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	... 14 more
+Caused by: ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	... 14 more
+============= begin nested exception, level (1) ===========
+java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 19 more
+Caused by: ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	... 14 more
+============= end nested exception, level (1) ===========
+============= begin nested exception, level (2) ===========
+java.sql.SQLException: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	... 14 more
+============= end nested exception, level (2) ===========
+============= begin nested exception, level (3) ===========
+ERROR XBM0A: The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.vetService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.access$900(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection40.<init>(Unknown Source)
+	at org.apache.derby.jdbc.Driver40.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.Driver20.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (3) ===========
+Cleanup action completed
+Fri Nov 03 23:51:43 CET 2017 Thread[DRDAConnThread_7,5,main] (DATABASE = sun-appserv-samples), (DRDAID = {3126}), Failed to create database 'sun-appserv-samples', see the next exception for details.
+Fri Nov 03 23:51:43 CET 2017 Thread[DRDAConnThread_7,5,main] (DATABASE = sun-appserv-samples), (DRDAID = {3126}), The database directory '/Users/Jingwei/appServ/EJBLabs/EJB-Projet/sun-appserv-samples' exists. However, it does not contain the expected 'service.properties' file. Perhaps Derby was brought down in the middle of creating this database. You may want to delete this directory and try creating the database again.
+Fri Nov 03 23:51:54 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Fri Nov 03 23:51:54 CET 2017 : Host 172.20.10.3 is not local to the server running on 0.0.0.0, so cannot be used for NetworkServerControl commands.  
+Tue May 18 01:45:41 CEST 2021 : Security manager installed using the Basic server security policy.
+Tue May 18 01:45:42 CEST 2021 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+Tue May 18 01:45:42 CEST 2021 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue May 18 01:45:46 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0179-7cb8-941e-00000c2829df 
+on database directory /Users/Jingwei/GitHub/Bidding_System/code/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/Users/Jingwei/appServ/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/Users/Jingwei/GitHub/Bidding_System/code
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=/Users/Jingwei/GitHub/Bidding_System/code
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 18 01:46:05 CEST 2021: Shutting down Derby engine
+----------------------------------------------------------------
+Tue May 18 01:46:05 CEST 2021:
+Shutting down instance a816c00e-0179-7cb8-941e-00000c2829df on database directory /Users/Jingwei/GitHub/Bidding_System/code/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+----------------------------------------------------------------
+Tue May 18 01:46:05 CEST 2021 : Apache Derby Network Server - 10.10.2.0 - (1582446) shutdown
