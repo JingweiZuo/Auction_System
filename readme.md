@@ -12,7 +12,7 @@ Lauch the program:
 
 - ```./runcmd.sh```
 
-The default admin passwork: *admin*. To symplify the execution process, we hard-coded the predefined scenario into the program. The users can feel free to adapt the application to be more user-friendy.
+The default admin password: *admin*. To simplify the execution process, we hard-coded the predefined scenario into the program. The users can feel free to adapt the application to be more user-friendly.
 
 
 
