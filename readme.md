@@ -12,13 +12,13 @@ Lauch the program:
 
 - ```./runcmd.sh```
 
-The default admin passwork: *admin*, the symplify the execution, we hard-coded a predefined scenario into the program. The readers can feel free to adapt the application to make it more user-friendy.
+The default admin passwork: *admin*. To symplify the execution process, we hard-coded the predefined scenario into the program. The users can feel free to adapt the application to be more user-friendy.
 
 
 
 ### Architecture design
 
-The general Architecture of the system is presented in the following figure. It follows a client/server architecture. Clients and servers are distributed over the network
+The global architecture of the system is presented in the following figure. It follows a client/server architecture. Clients and servers are distributed over the network
 
 
 <img src="./figures/system_architecture.png" alt="system_structure" style="zoom:60%;" />
