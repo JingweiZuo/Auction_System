@@ -1,6 +1,6 @@
 ### Introduction
 
-The aim of the project is to design and implement an **auction (bidding) system** to get familar with the J2EE techniques and some classical design patterns. 
+The aim of the project is to design and implement an **auction (bidding) system** to get familiar with the J2EE techniques and some classical design patterns. 
 
 The auction system allows users to register and propose objects for sale. Users may also bid on objets proposed by other users. When an object is proposed for auction, the vendor indicates a starting price, the maximum duration of the bidding process and possibly the increment for automatic bidding (for instance 0.1, 0.5, 1, 2, 5 or 10 Euros).
 
