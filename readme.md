@@ -4,7 +4,7 @@ The aim of the project is to design and implement an **auction (bidding) system*
 
 The auction system allows users to register and propose objects for sale. Users may also bid on objets proposed by other users. When an object is proposed for auction, the vendor indicates a starting price, the maximum duration of the bidding process and possibly the increment for automatic bidding (for instance 0.1, 0.5, 1, 2, 5 or 10 Euros).
 
-
+You can find a [project report here](./Rapport_AuctionSystem.pdf) (in French)
 
 ### Running the demo 
 
@@ -20,7 +20,7 @@ The default admin passwork: *admin*, the symplify the execution, we hard-coded a
 
 The general Architecture of the system is presented in the following figure. It follows a client/server architecture. Clients and servers are distributed over the network
 
-<img src=".figures/system_architecture.png" alt="image-20210518120542525 AM" style="zoom:60%;" />
+<img src="./figures/system_architecture.png" alt="image-20210518120542525 AM" style="zoom:60%;" />
 
 - A **Directory Manager** manages the users and the objects proposed for auctions.
 - An **Administration Client** accesses **the Directory Manager services** to 
@@ -64,7 +64,7 @@ The general Architecture of the system is presented in the following figure. It 
 
   <img src="./figures/TransferObjectPattern.png" alt="TransferObjectPattern" style="zoom:50%;" align="left"/>
 
-- Asynchrous Pattern
+- Asynchronous Pattern
 
   <img src="./figures/Asynchrone_mode.png" alt="Asynchrone_mode" style="zoom:50%;" align="left"/>
 
