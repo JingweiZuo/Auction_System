@@ -22,7 +22,7 @@ The general Architecture of the system is presented in the following figure. It 
 
 
 <img src="./figures/system_architecture.png" alt="system_structure" style="zoom:60%;" />
- 30803ba7eaa8231faecc6eb68185fecbf681423b
+
 
 - A **Directory Manager** manages the users and the objects proposed for auctions.
 - An **Administration Client** accesses **the Directory Manager services** to 
@@ -70,7 +70,7 @@ The general Architecture of the system is presented in the following figure. It 
 
 
 - Asynchronous Pattern
- 30803ba7eaa8231faecc6eb68185fecbf681423b
+
 
   <img src="./figures/Asynchrone_mode.png" alt="Asynchrone_mode" style="zoom:30%;" align="left"/>
 
